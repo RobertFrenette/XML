@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildings>
+    <building>
+	    <name>Sever Hall</name>
+	    <latitude>42.374354</latitude>
+	    <longitude>-71.115521</longitude>
+    </building>  
+    <building>
+	    <name>Barker Center - Union/Burr</name>
+	    <latitude>42.372541</latitude>
+	    <longitude>-71.114593</longitude>
+    </building>  
+    <building>
+	    <name>Science Center</name>
+	    <latitude>42.376364</latitude>
+	    <longitude>-71.116637</longitude>
+    </building>  
+    <building>
+	    <name>Boylston Hall</name>
+	    <latitude>42.373284</latitude>
+	    <longitude>-71.117404</longitude>
+    </building>
+    <building>
+	    <name>William James Hall</name>
+	    <latitude>42.377081</latitude>
+	    <longitude>-71.113386</longitude>
+    </building>  
+    <building>
+	    <name>Emerson Hall</name>
+	    <latitude>42.373847</latitude>
+	    <longitude>-71.115274</longitude>
+    </building>  
+    <building>
+	    <name>CGIS-South Building</name>
+	    <latitude>42.375091</latitude>
+	    <longitude>-71.11308</longitude>
+    </building>  
+    <building>
+	    <name>CGIS-Knafel</name>
+	    <latitude>42.375622</latitude>
+	    <longitude>-71.113172</longitude>
+    </building>  
+    <building>
+	    <name>Harvard Hall</name>
+	    <latitude>42.37483</latitude>
+	    <longitude>-71.118246</longitude>
+    </building>  
+    <building>
+	    <name>Vanserg</name>
+	    <latitude>42.379375</latitude>
+	    <longitude>-71.113241</longitude>
+    </building>  
+    <building>
+	    <name>Robinson Hall</name>
+	    <latitude>42.374715</latitude>
+	    <longitude>-71.114985</longitude>
+    </building>  
+    <building>
+	    <name>Divinity Ave., 2</name>
+	    <latitude>42.377632</latitude>
+	    <longitude>-71.113837</longitude>
+    </building>  
+    <building>
+	    <name>Littauer Center</name>
+	    <latitude>42.376379</latitude>
+	    <longitude>-71.118262</longitude>
+    </building>  
+    <building>
+	    <name>Maxwell Dworkin</name>
+	    <latitude>42.378813</latitude>
+	    <longitude>-71.117329</longitude>
+    </building>  
+    <building>
+	    <name>Music Building</name>
+	    <latitude>42.376974</latitude>
+	    <longitude>-71.117061</longitude>
+    </building>  
+    <building>
+	    <name>Semitic Museum</name>
+	    <latitude>42.378127</latitude>
+	    <longitude>-71.114019</longitude>
+    </building>  
+    <building>
+	    <name>Jefferson Lab</name>
+	    <latitude>42.376724</latitude>
+	    <longitude>-71.117388</longitude>
+    </building>  
+    <building>
+	    <name>Div - Andover Hall</name>
+	    <latitude>42.380073</latitude>
+	    <longitude>-71.113</longitude>
+    </building>  
+    <building>
+	    <name>Sackler Museum</name>
+	    <latitude>42.375119</latitude>
+	    <longitude>-71.114153</longitude>
+    </building>  
+    <building>
+	    <name>Peabody Museum</name>
+	    <latitude>42.378262</latitude>
+	    <longitude>-71.114802</longitude>
+    </building>  
+    <building>
+	    <name>HMS - Medical Education</name>
+	    <latitude>42.336936</latitude>
+	    <longitude>-71.104175</longitude>
+    </building>  
+    <building>
+	    <name>Pierce Hall</name>
+	    <latitude>42.378242</latitude>
+	    <longitude>-71.117109</longitude>
+    </building>  
+    <building>
+	    <name>Bow St., 1</name>
+	    <latitude>42.372234</latitude>
+	    <longitude>-71.115977</longitude>
+    </building>  
+    <building>
+	    <name>Biological Labs</name>
+	    <latitude>42.378908</latitude>
+	    <longitude>-71.113606</longitude>
+    </building>  
+    <building>
+	    <name>University Museum</name>
+	    <latitude>42.378456</latitude>
+	    <longitude>-71.115752</longitude>
+    </building>  
+    <building>
+	    <name>Lowell Lecture Hall</name>
+	    <latitude>42.376688</latitude>
+	    <longitude>-71.115449</longitude>
+    </building>  
+    <building>
+	    <name>DIV - Divinity Hall</name>
+	    <latitude>42.378672</latitude>
+	    <longitude>-71.114255</longitude>
+    </building>  
+    <building>
+	    <name>Fairchild Biochemistry Lab</name>
+	    <latitude>42.377416</latitude>
+	    <longitude>-71.114553</longitude>
+    </building>  
+    <building>
+	    <name>Museum of Comparative Zoology</name>
+	    <latitude>42.379003</latitude>
+	    <longitude>-71.115202</longitude>
+    </building>  
+    <building>
+	    <name>Carpenter Center</name>
+	    <latitude>42.37358</latitude>
+	    <longitude>-71.114325</longitude>
+    </building>  
+    <building>
+	    <name>Grays Hall</name>
+	    <latitude>42.373633</latitude>
+	    <longitude>-71.117887</longitude>
+    </building>  
+    <building>
+	    <name>Memorial Hall</name>
+	    <latitude>42.375959</latitude>
+	    <longitude>-71.115274</longitude>
+    </building>  
+    <building>
+	    <name>Barker Center - Warren House</name>
+	    <latitude>42.372947</latitude>
+	    <longitude>-71.114255</longitude>
+    </building>  
+    <building>
+	    <name>Fogg Museum</name>
+	    <latitude>42.374168</latitude>
+	    <longitude>-71.1144</longitude>
+    </building>  
+    <building>
+	    <name>Holden Chapel</name>
+	    <latitude>42.37527</latitude>
+	    <longitude>-71.118139</longitude>
+    </building>  
+    <building>
+	    <name>Kirkland Pl., 9</name>
+	    <latitude>42.377861</latitude>
+	    <longitude>-71.113225</longitude>
+    </building>  
+    <building>
+	    <name>SPH - Kresge</name>
+	    <latitude>42.335291</latitude>
+	    <longitude>-71.102754</longitude>
+    </building>  
+    <building>
+	    <name>Widener Library</name>
+	    <latitude>42.373768</latitude>
+	    <longitude>-71.116422</longitude>
+    </building>  
+    <building>
+	    <name>60 Oxford Street</name>
+	    <latitude>42.38037</latitude>
+	    <longitude>-71.11617</longitude>
+    </building>  
+    <building>
+	    <name>Mallinckrodt</name>
+	    <latitude>42.377291</latitude>
+	    <longitude>-71.115881</longitude>
+    </building>  
+    <building>
+	    <name>Observatory Building A</name>
+	    <latitude>42.381468</latitude>
+	    <longitude>-71.128503</longitude>
+    </building>  
+    <building>
+	    <name>SPH - HSPH-3</name>
+	    <latitude>42.33535</latitude>
+	    <longitude>-71.103124</longitude>
+    </building>  
+    <building>
+	    <name>Cruft Memorial Lab</name>
+	    <latitude>42.377731</latitude>
+	    <longitude>-71.116916</longitude>
+    </building>  
+    <building>
+	    <name>Dana Palmer House</name>
+	    <latitude>42.372967</latitude>
+	    <longitude>-71.1147</longitude>
+    </building>  
+    <building>
+	    <name>DIV - Rockefeller Hall</name>
+	    <latitude>42.380528</latitude>
+	    <longitude>-71.113311</longitude>
+    </building>  
+    <building>
+	    <name>HMS - Warren Alpert Building</name>
+	    <latitude>42.336191</latitude>
+	    <longitude>-71.1027</longitude>
+    </building>  
+    <building>
+	    <name>KSG - Littauer</name>
+	    <latitude>42.370926</latitude>
+	    <longitude>-71.12198</longitude>
+    </building>  
+    <building>
+	    <name>KSG - Taubman</name>
+	    <latitude>42.371869</latitude>
+	    <longitude>-71.122034</longitude>
+    </building>  
+    <building>
+	    <name>Lamont Library</name>
+	    <latitude>42.372757</latitude>
+	    <longitude>-71.115484</longitude>
+    </building>  
+    <building>
+	    <name>Loeb Drama Center</name>
+	    <latitude>42.374893</latitude>
+	    <longitude>-71.122822</longitude>
+    </building>  
+    <building>
+	    <name>Prescott St., 6</name>
+	    <latitude>42.372371</latitude>
+	    <longitude>-71.113898</longitude>
+    </building>  
+    <building>
+	    <name>Church Street, 42</name>
+	    <latitude>42.374273</latitude>
+	    <longitude>-71.120333</longitude>
+    </building>  
+    <building>
+	    <name>GSE - Larsen</name>
+	    <latitude>42.375486</latitude>
+	    <longitude>-71.12124</longitude>
+    </building>  
+    <building>
+	    <name>HMS - Bldg C1</name>
+	    <latitude>42.336135</latitude>
+	    <longitude>-71.104621</longitude>
+    </building>  
+    <building>
+	    <name>Kirkland St., 27</name>
+	    <latitude>42.376799</latitude>
+	    <longitude>-71.114352</longitude>
+    </building>  
+    <building>
+	    <name>Quincy House</name>
+	    <latitude>42.370855</latitude>
+	    <longitude>-71.116916</longitude>
+    </building>  
+    <building>
+	    <name>SPH - FXB Bldg</name>
+	    <latitude>42.335632</latitude>
+	    <longitude>-71.101622</longitude>
+    </building>  
+    <building>
+	    <name>University Herbaria</name>
+	    <latitude>42.379114</latitude>
+	    <longitude>-71.114593</longitude>
+    </building>  
+    <building>
+	    <name>Adams House</name>
+	    <latitude>42.371766</latitude>
+	    <longitude>-71.116669</longitude>
+    </building>  
+    <building>
+	    <name>Adams-Apthorp Masters</name>
+	    <latitude>42.372119</latitude>
+	    <longitude>-71.117066</longitude>
+    </building>
+</buildings>

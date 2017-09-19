@@ -1,0 +1,27 @@
+#wrapper {
+  /* set main wrapper to fixed size */
+  width: 960px;
+  overflow: hidden;
+
+  position: relative;
+  top: 10px;
+  
+  /* center on page (horiz) */
+  margin: auto;
+  background-color: #ffffff;
+}
+
+.credit {
+  font-size: .95em;
+  text-align: right;
+}
+
+a:link {
+  text-decoration: none;
+}
+a:link, a:visited {
+    color: #0066FF;
+}
+a:active, a:hover {
+  text-decoration: underline;
+}
